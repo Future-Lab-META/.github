@@ -30,6 +30,3 @@ Want to be a part of FutureLab and help build a brighter future for kids? Here a
 If you would like more information or have any questions, please send us an [email](mailto:future@smilegate.com).
 
 Join FutureLab and help us build a better future for children 🚀.
-
-
-Translated with DeepL.com (free version)
