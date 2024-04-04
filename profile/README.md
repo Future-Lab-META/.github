@@ -31,4 +31,4 @@
 
 퓨처랩과 함께 어린이들을 위해 더 나은 미래를 만드는데 기여하세요. 🚀
 
-** [English Version](https://github.com/Future-Lab-META/.github/blob/main/profile/README_eng.md) **
+**[English Version](https://github.com/Future-Lab-META/.github/blob/main/profile/README_eng.md)**
