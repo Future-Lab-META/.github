@@ -30,3 +30,5 @@
 더 많은 정보를 원하시거나 질문이 있으시면, 저희에게 [이메일](mailto:future@smilegate.com)을 보내주세요.
 
 퓨처랩과 함께 어린이들을 위해 더 나은 미래를 만드는데 기여하세요. 🚀
+
+## [English Version](https://github.com/Future-Lab-META/.github/blob/main/profile/README_eng.md) 
