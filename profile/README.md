@@ -1,5 +1,4 @@
-# 스마일게이트 퓨처랩 깃헙계정입니다.👋 
-(This is Smilegate FutureLab's GitHub account. 👋) 
+# 스마일게이트 퓨처랩 깃헙계정입니다.👋 (This is Smilegate FutureLab's GitHub account. 👋) 
 
 ## 개발 철학(Development Philosophy)
 - 어린이들의, 어린이를 위한, 어린이에 의한 서비스를 만듭니다. (We create services of children, by children, and for children.)
