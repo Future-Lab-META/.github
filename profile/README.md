@@ -32,38 +32,3 @@
 퓨처랩과 함께 어린이들을 위해 더 나은 미래를 만드는데 기여하세요. 🚀 (Join FutureLab and help us build a better future for children. 🚀)
 
 
-
-#  👋
-
-## 
--
-- 
-
-## 
-
-
-- 
--
-
-## 
-
-
-- : 
-- : 
-- : 
-- : 
-
-
-## 
-
-
-- ****: 
-- : 
--
-
-## Contact us
-
-🚀.
-
-
-Translated with DeepL.com (free version)
